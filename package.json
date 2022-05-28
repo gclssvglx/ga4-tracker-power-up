@@ -1,0 +1,16 @@
+{
+  "name": "ga4-tracker-power-up",
+  "version": "1.0.0",
+  "description": "A GA4 Tracker power-up",
+  "main": "index.js",
+  "repository": "git@github.com:gclssvglx/ga4-tracker-power-up.git",
+  "author": "Graham Lewis <44037625+gclssvglx@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build src/html/*.html"
+  },
+  "private": false,
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
